@@ -29,6 +29,8 @@ public class BoundedStreamWordCount {
         sum.print();
         //6.启动执行
         env.execute();
+
+
     }
 }
 
